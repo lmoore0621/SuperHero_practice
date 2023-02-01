@@ -1,0 +1,15 @@
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\bin\Debug\net7.0\SuperHeroes.exe
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\bin\Debug\net7.0\SuperHeroes.deps.json
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\bin\Debug\net7.0\SuperHeroes.runtimeconfig.json
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\bin\Debug\net7.0\SuperHeroes.dll
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\bin\Debug\net7.0\SuperHeroes.pdb
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.csproj.AssemblyReference.cache
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.AssemblyInfoInputs.cache
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.AssemblyInfo.cs
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.csproj.CoreCompileInputs.cache
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.dll
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\refint\SuperHeroes.dll
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.pdb
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\SuperHeroes.genruntimeconfig.cache
+C:\Users\lmoor\source\repos\SuperHeroes\SuperHeroes\obj\Debug\net7.0\ref\SuperHeroes.dll
